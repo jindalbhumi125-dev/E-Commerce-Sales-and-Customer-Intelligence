@@ -141,6 +141,11 @@ This project demonstrates the practical application of Python programming and da
 
 ### Bhumi Jindal
 
+## Project Report
+
+[View E-Commerce Project Report](Bhumi_ECommerce_Project_Report%20%282%29.pdf)
+
+
 **Project:** E-Commerce Sales and Customer Intelligence Using Python
 
 **Type:** Academic Mini Project
